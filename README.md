@@ -20,6 +20,11 @@ Sistema CRUD completo para gestión de usuarios desarrollado con Node.js, Expres
 1. Clonar el repositorio:
 
 git clone https://github.com/kevinazuero/mi-proyecto-crud.git
+
+una vez clonado el repositorio, ingresar a la carpeta raiz del proyecto (mi-proyecto-crud)
+
+puede usar el siguiente comando, dependiendo de donde haya clonado el repositorio:
+
 ```bash
 cd mi-proyecto-crud
 ```
